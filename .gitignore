@@ -1,0 +1,8 @@
+dist/
+.tmp/
+examples/
+node_modules/
+.DS*
+._.*
+.idea/
+yarn.lock
